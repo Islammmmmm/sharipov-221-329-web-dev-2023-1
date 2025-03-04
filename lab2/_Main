@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="18">
   <diagram name="Главная_стр" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1050" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2315,6 +2315,833 @@
         </mxCell>
         <mxCell id="WamANDHyiJS_SJxIbOx_-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WamANDHyiJS_SJxIbOx_-85" target="WamANDHyiJS_SJxIbOx_-85">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Og_kp5GwZQI5JrPLCd-u" name="Вост">
+    <mxGraphModel dx="1050" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LItF5LywiFEADFIP6cJo-1" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="242.49" y="30" width="646.25" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-2" value="LOGO" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="253.13" y="80" width="178.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-3" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;rounded=0;labelBackgroundColor=none;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="90" width="247.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-4" value="Личный кабинет" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="620" y="60" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-5" value="корзина" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="745" y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-6" value="доставка" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="810" y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-7" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="180" width="655" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-8" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="248.75" y="130" width="630" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-9" value="Section 1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-10" value="Section 2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="370" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-11" value="Section 3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="450" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-12" value="Section 4" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="550" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-13" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=top;spacing=10;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="245.62" y="740" width="633.13" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-14" value="Section 5" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="640" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-15" value="Section 6" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="720" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-16" value="Section 7" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="800" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-17" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Необходимое для восстановления&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="190" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-18" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="243.75000000000003" y="350" width="650" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-19" value="Section 1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="253.13" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-20" value="Section 2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="330" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-21" value="Section 4" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="529.37" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-22" value="Section 5" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="610" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-23" value="Section 6" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="700" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-24" value="Section 7" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="791.56" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-25" value="Section 3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="434.07" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;a style=&quot;forced-color-adjust: none; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; transition: color 0.1s; color: rgb(51, 51, 51); text-decoration-line: none; font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot; href=&quot;https://sportivnoepitanie.ru/&quot;&gt;Интернет-магазин спортивного питания&amp;nbsp;&lt;span style=&quot;forced-color-adjust: none; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; font-weight: bold; color: rgb(212, 19, 19);&quot; class=&quot;boldred&quot;&gt;SportPit.ru&lt;/span&gt;&lt;/a&gt;" link="&lt;a href=&quot;https://sportivnoepitanie.ru/&quot; style=&quot;forced-color-adjust: none; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; transition: color 0.1s; color: rgb(51, 51, 51); text-decoration-line: none; font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Интернет-магазин спортивного питания&amp;nbsp;&lt;span class=&quot;boldred&quot; style=&quot;forced-color-adjust: none; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; font-weight: bold; color: rgb(212, 19, 19);&quot;&gt;SportivnoePitanie.ru&lt;/span&gt;&lt;/a&gt;" id="LItF5LywiFEADFIP6cJo-26">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="240.63" y="780" width="330" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Москва, Ленинский пр-т, 82/2&lt;/span&gt;" id="LItF5LywiFEADFIP6cJo-27">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="245.62" y="810" width="330" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Тел.: +7 (499) 550-95-98, 8 (800) 350-86-98&lt;/span&gt;" link="&lt;a href=&quot;https://sportivnoepitanie.ru/&quot; style=&quot;forced-color-adjust: none; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; transition: color 0.1s; color: rgb(51, 51, 51); text-decoration-line: none; font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Интернет-магазин спортивного питания&amp;nbsp;&lt;span class=&quot;boldred&quot; style=&quot;forced-color-adjust: none; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; font-weight: bold; color: rgb(212, 19, 19);&quot;&gt;SportivnoePitanie.ru&lt;/span&gt;&lt;/a&gt;" id="LItF5LywiFEADFIP6cJo-28">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="573.12" y="780" width="290" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;E-mail: info@sportpit.ru&lt;/span&gt;" id="LItF5LywiFEADFIP6cJo-29">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="573.12" y="820" width="295" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="LItF5LywiFEADFIP6cJo-30" value="&lt;div&gt;Восстановление после тренировки&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;fontSize=14;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535.94" y="810" as="sourcePoint" />
+            <mxPoint x="535.94" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-32" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="245.62" y="720" width="640" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-33" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-34" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Выбранный посттренировочный продукт&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="500" y="360" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-35" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="269.69" y="390" width="113.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-36" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="269.69" y="500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-37" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="415.56" y="390" width="113.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-38" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="415.56" y="500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-39" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="573.12" y="390" width="113.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-40" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="728.1299999999999" y="390" width="113.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-41" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="570.63" y="500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-42" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="729.6899999999999" y="500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LItF5LywiFEADFIP6cJo-41" target="LItF5LywiFEADFIP6cJo-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="632.1799999999998" y="690" as="sourcePoint" />
+            <mxPoint x="632.1799999999998" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-53" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="230" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-54" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="695.9300000000001" y="230" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-55" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="243.75000000000003" y="550" width="650" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-56" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Лучшие выборы&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="525.56" y="565" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LItF5LywiFEADFIP6cJo-57" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="600" width="560" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hG1ffoMFR4dm2xTKNPPq" name="Акция">
+    <mxGraphModel dx="1500" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-1" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="30" width="648.74" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-2" value="LOGO" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="253.13" y="80" width="178.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-3" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;rounded=0;labelBackgroundColor=none;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="90" width="247.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-4" value="Личный кабинет" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="620" y="60" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-5" value="корзина" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="745" y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-6" value="доставка" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="810" y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-7" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="180" width="655" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-8" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="248.75" y="130" width="630" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-9" value="Section 1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-10" value="Section 2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="370" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-11" value="Section 3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="450" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-12" value="Section 4" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="550" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-13" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=top;spacing=10;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="248.75" y="620" width="633.13" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-14" value="Section 5" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="640" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-15" value="Section 6" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="720" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-16" value="Section 7" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="800" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-17" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Товары с акцией&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="190" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-19" value="Section 1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="256.88" y="620" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-20" value="Section 2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="340" y="620" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-21" value="Section 4" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="527.12" y="620" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-22" value="Section 5" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="610" y="620" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-23" value="Section 6" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="700" y="620" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-24" value="Section 7" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="791.56" y="620" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-25" value="Section 3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="430" y="620" width="60" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://sportivnoepitanie.ru/&quot; style=&quot;forced-color-adjust: none; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; transition: color 0.1s; color: rgb(51, 51, 51); text-decoration-line: none; font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Интернет-магазин спортивного питания&amp;nbsp;&lt;span class=&quot;boldred&quot; style=&quot;forced-color-adjust: none; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; font-weight: bold; color: rgb(212, 19, 19);&quot;&gt;SportPit.ru&lt;/span&gt;&lt;/a&gt;" link="&lt;a href=&quot;https://sportivnoepitanie.ru/&quot; style=&quot;forced-color-adjust: none; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; transition: color 0.1s; color: rgb(51, 51, 51); text-decoration-line: none; font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Интернет-магазин спортивного питания&amp;nbsp;&lt;span class=&quot;boldred&quot; style=&quot;forced-color-adjust: none; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; font-weight: bold; color: rgb(212, 19, 19);&quot;&gt;SportivnoePitanie.ru&lt;/span&gt;&lt;/a&gt;" id="_o_JqayIlJKsrd7FUtxF-26">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="255" y="660" width="330" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Москва, Ленинский пр-т, 82/2&lt;/span&gt;" id="_o_JqayIlJKsrd7FUtxF-27">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="256.88" y="690" width="330" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Тел.: +7 (499) 550-95-98, 8 (800) 350-86-98&lt;/span&gt;" link="&lt;a href=&quot;https://sportivnoepitanie.ru/&quot; style=&quot;forced-color-adjust: none; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; transition: color 0.1s; color: rgb(51, 51, 51); text-decoration-line: none; font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Интернет-магазин спортивного питания&amp;nbsp;&lt;span class=&quot;boldred&quot; style=&quot;forced-color-adjust: none; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; font-weight: bold; color: rgb(212, 19, 19);&quot;&gt;SportivnoePitanie.ru&lt;/span&gt;&lt;/a&gt;" id="_o_JqayIlJKsrd7FUtxF-28">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="585" y="660" width="290" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;E-mail: info@sportpit.ru&lt;/span&gt;" id="_o_JqayIlJKsrd7FUtxF-29">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="593.74" y="690" width="295" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-30" value="&lt;div&gt;Акция&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;fontSize=14;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535.94" y="810" as="sourcePoint" />
+            <mxPoint x="535.94" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-32" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="245.62" y="600" width="640" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-35" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="256.88" y="240" width="113.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-36" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="260" y="360" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-37" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="240" width="113.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-38" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="414" y="360" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-39" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="575.62" y="240" width="113.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-40" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="738.4399999999998" y="240" width="113.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-41" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="577.18" y="360" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-42" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="744.9999999999999" y="360" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_o_JqayIlJKsrd7FUtxF-41" target="_o_JqayIlJKsrd7FUtxF-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="632.1799999999998" y="690" as="sourcePoint" />
+            <mxPoint x="632.1799999999998" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-51" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="253.44" y="430" width="113.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-52" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="412.44" y="430" width="113.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-53" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="577.1800000000001" y="440" width="113.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-54" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="738.44" y="440" width="113.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-55" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="256.88" y="550" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-56" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="741.56" y="550" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-57" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="573.12" y="550" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_o_JqayIlJKsrd7FUtxF-58" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="409.07" y="550" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zofNnROfVIqmjCKA9jzs" name="Эксперт">
+    <mxGraphModel dx="1050" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-1" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="242.49" y="30" width="646.25" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-2" value="LOGO" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="253.13" y="80" width="178.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-3" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;rounded=0;labelBackgroundColor=none;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="90" width="247.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-4" value="Личный кабинет" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="620" y="60" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-5" value="корзина" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="745" y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-6" value="доставка" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="810" y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-7" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="180" width="655" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-8" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="248.75" y="130" width="630" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-9" value="Section 1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-10" value="Section 2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="370" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-11" value="Section 3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="450" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-12" value="Section 4" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="550" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-13" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=top;spacing=10;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="245.62" y="740" width="633.13" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-14" value="Section 5" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="640" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-15" value="Section 6" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="720" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-16" value="Section 7" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="800" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-17" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Профили экспертов&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="190" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-18" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="243.75000000000003" y="350" width="650" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-19" value="Section 1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="253.13" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-20" value="Section 2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="330" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-21" value="Section 4" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="529.37" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-22" value="Section 5" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="610" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-23" value="Section 6" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="700" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-24" value="Section 7" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="791.56" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-25" value="Section 3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="434.07" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://sportivnoepitanie.ru/&quot; style=&quot;forced-color-adjust: none; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; transition: color 0.1s; color: rgb(51, 51, 51); text-decoration-line: none; font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Интернет-магазин спортивного питания&amp;nbsp;&lt;span class=&quot;boldred&quot; style=&quot;forced-color-adjust: none; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; font-weight: bold; color: rgb(212, 19, 19);&quot;&gt;SportPit.ru&lt;/span&gt;&lt;/a&gt;" link="&lt;a href=&quot;https://sportivnoepitanie.ru/&quot; style=&quot;forced-color-adjust: none; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; transition: color 0.1s; color: rgb(51, 51, 51); text-decoration-line: none; font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Интернет-магазин спортивного питания&amp;nbsp;&lt;span class=&quot;boldred&quot; style=&quot;forced-color-adjust: none; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; font-weight: bold; color: rgb(212, 19, 19);&quot;&gt;SportivnoePitanie.ru&lt;/span&gt;&lt;/a&gt;" id="LG3sx1M_TEkeQFaHTLuy-26">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="240.63" y="780" width="330" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Москва, Ленинский пр-т, 82/2&lt;/span&gt;" id="LG3sx1M_TEkeQFaHTLuy-27">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="245.62" y="810" width="330" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Тел.: +7 (499) 550-95-98, 8 (800) 350-86-98&lt;/span&gt;" link="&lt;a href=&quot;https://sportivnoepitanie.ru/&quot; style=&quot;forced-color-adjust: none; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; transition: color 0.1s; color: rgb(51, 51, 51); text-decoration-line: none; font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Интернет-магазин спортивного питания&amp;nbsp;&lt;span class=&quot;boldred&quot; style=&quot;forced-color-adjust: none; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; font-weight: bold; color: rgb(212, 19, 19);&quot;&gt;SportivnoePitanie.ru&lt;/span&gt;&lt;/a&gt;" id="LG3sx1M_TEkeQFaHTLuy-28">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="573.12" y="780" width="290" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;E-mail: info@sportpit.ru&lt;/span&gt;" id="LG3sx1M_TEkeQFaHTLuy-29">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="573.12" y="820" width="295" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-30" value="&lt;div&gt;Страница эксперта&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;fontSize=14;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535.94" y="810" as="sourcePoint" />
+            <mxPoint x="535.94" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-32" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="245.62" y="720" width="640" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-33" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-34" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Наша команда экспертов&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="360" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-35" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="269.69" y="390" width="113.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-36" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="480" y="230" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-37" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="415.56" y="390" width="113.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-38" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="415.56" y="500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-39" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="573.12" y="390" width="113.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-40" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="728.1299999999999" y="390" width="113.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-41" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="570.63" y="500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-42" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="729.6899999999999" y="500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LG3sx1M_TEkeQFaHTLuy-41" target="LG3sx1M_TEkeQFaHTLuy-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="632.1799999999998" y="690" as="sourcePoint" />
+            <mxPoint x="632.1799999999998" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-47" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="243.75000000000003" y="550" width="650" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-48" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Особенности экспертов&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="525.56" y="565" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-49" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="600" width="580" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LG3sx1M_TEkeQFaHTLuy-50" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="670" y="220" width="140" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-H_s9EROUTQFHsbjUoTc" name="Гид">
+    <mxGraphModel dx="1050" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8h595wycKZWDLMZk0aaG-1" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="242.49" y="30" width="646.25" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-2" value="LOGO" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="253.13" y="80" width="178.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-3" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;rounded=0;labelBackgroundColor=none;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="90" width="247.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-4" value="Личный кабинет" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="620" y="60" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-5" value="корзина" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="745" y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-6" value="доставка" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="810" y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-7" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="180" width="655" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-8" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="248.75" y="130" width="630" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-9" value="Section 1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-10" value="Section 2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="370" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-11" value="Section 3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="450" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-12" value="Section 4" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="550" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-13" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=top;spacing=10;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="245.62" y="740" width="633.13" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-14" value="Section 5" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="640" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-15" value="Section 6" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="720" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-16" value="Section 7" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="800" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-17" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Всесторонний гид&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="190" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-18" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="243.75000000000003" y="350" width="650" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-19" value="Section 1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="253.13" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-20" value="Section 2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="330" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-21" value="Section 4" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="529.37" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-22" value="Section 5" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="610" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-23" value="Section 6" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="700" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-24" value="Section 7" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="791.56" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-25" value="Section 3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="434.07" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;a style=&quot;forced-color-adjust: none; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; transition: color 0.1s; color: rgb(51, 51, 51); text-decoration-line: none; font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot; href=&quot;https://sportivnoepitanie.ru/&quot;&gt;Интернет-магазин спортивного питания&amp;nbsp;&lt;span style=&quot;forced-color-adjust: none; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; font-weight: bold; color: rgb(212, 19, 19);&quot; class=&quot;boldred&quot;&gt;SportPit.ru&lt;/span&gt;&lt;/a&gt;" link="&lt;a href=&quot;https://sportivnoepitanie.ru/&quot; style=&quot;forced-color-adjust: none; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; transition: color 0.1s; color: rgb(51, 51, 51); text-decoration-line: none; font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Интернет-магазин спортивного питания&amp;nbsp;&lt;span class=&quot;boldred&quot; style=&quot;forced-color-adjust: none; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; font-weight: bold; color: rgb(212, 19, 19);&quot;&gt;SportivnoePitanie.ru&lt;/span&gt;&lt;/a&gt;" id="8h595wycKZWDLMZk0aaG-26">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="240.63" y="780" width="330" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Москва, Ленинский пр-т, 82/2&lt;/span&gt;" id="8h595wycKZWDLMZk0aaG-27">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="245.62" y="810" width="330" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Тел.: +7 (499) 550-95-98, 8 (800) 350-86-98&lt;/span&gt;" link="&lt;a href=&quot;https://sportivnoepitanie.ru/&quot; style=&quot;forced-color-adjust: none; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; transition: color 0.1s; color: rgb(51, 51, 51); text-decoration-line: none; font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Интернет-магазин спортивного питания&amp;nbsp;&lt;span class=&quot;boldred&quot; style=&quot;forced-color-adjust: none; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; font-weight: bold; color: rgb(212, 19, 19);&quot;&gt;SportivnoePitanie.ru&lt;/span&gt;&lt;/a&gt;" id="8h595wycKZWDLMZk0aaG-28">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="573.12" y="780" width="290" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;E-mail: info@sportpit.ru&lt;/span&gt;" id="8h595wycKZWDLMZk0aaG-29">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="575.62" y="810" width="295" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8h595wycKZWDLMZk0aaG-30" value="&lt;div&gt;Гид по протеиновым добавкам&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;fontSize=14;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535.94" y="810" as="sourcePoint" />
+            <mxPoint x="535.94" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-32" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="245.62" y="720" width="640" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-34" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Инфографика&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="360" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-35" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="400" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-36" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="480" y="230" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625.6300000000001" y="530" as="sourcePoint" />
+            <mxPoint x="625.6300000000001" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="632.1799999999998" y="690" as="sourcePoint" />
+            <mxPoint x="632.1799999999998" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-45" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="243.75000000000003" y="550" width="650" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-46" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Часто задаваемые вопросы&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="525.56" y="565" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-47" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="600" width="600" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8h595wycKZWDLMZk0aaG-48" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="670" y="220" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vvySqP8h9mzOjg1K5U2j-1" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="290" y="230" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vvySqP8h9mzOjg1K5U2j-2" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="580" y="395" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="kTlQda1ACh15cpBGubr_-1" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="313.13" y="620" width="520" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yzZfYV20gzBzMKzdErwO" name="Совет тренировка">
+    <mxGraphModel dx="1050" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-1" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="242.49" y="30" width="646.25" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-2" value="LOGO" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="253.13" y="80" width="178.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-3" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;rounded=0;labelBackgroundColor=none;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="90" width="247.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-4" value="Личный кабинет" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="620" y="60" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-5" value="корзина" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="745" y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-6" value="доставка" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="810" y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-7" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="180" width="655" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-8" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="248.75" y="130" width="630" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-9" value="Section 1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-10" value="Section 2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="370" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-11" value="Section 3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="450" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-12" value="Section 4" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="550" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-13" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=top;spacing=10;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="245.62" y="740" width="633.13" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-14" value="Section 5" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="640" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-15" value="Section 6" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="720" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-16" value="Section 7" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="800" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-17" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Профили экспертов&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="190" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-18" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="243.75000000000003" y="350" width="650" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-19" value="Section 1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="253.13" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-20" value="Section 2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="330" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-21" value="Section 4" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="529.37" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-22" value="Section 5" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="610" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-23" value="Section 6" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="700" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-24" value="Section 7" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="791.56" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-25" value="Section 3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="434.07" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;a style=&quot;forced-color-adjust: none; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; transition: color 0.1s; color: rgb(51, 51, 51); text-decoration-line: none; font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot; href=&quot;https://sportivnoepitanie.ru/&quot;&gt;Интернет-магазин спортивного питания&amp;nbsp;&lt;span style=&quot;forced-color-adjust: none; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; font-weight: bold; color: rgb(212, 19, 19);&quot; class=&quot;boldred&quot;&gt;SportPit.ru&lt;/span&gt;&lt;/a&gt;" link="&lt;a href=&quot;https://sportivnoepitanie.ru/&quot; style=&quot;forced-color-adjust: none; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; transition: color 0.1s; color: rgb(51, 51, 51); text-decoration-line: none; font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Интернет-магазин спортивного питания&amp;nbsp;&lt;span class=&quot;boldred&quot; style=&quot;forced-color-adjust: none; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; font-weight: bold; color: rgb(212, 19, 19);&quot;&gt;SportivnoePitanie.ru&lt;/span&gt;&lt;/a&gt;" id="NgSHVobd8mqU20Zx3wMo-26">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="240.63" y="780" width="330" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Москва, Ленинский пр-т, 82/2&lt;/span&gt;" id="NgSHVobd8mqU20Zx3wMo-27">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="245.62" y="810" width="330" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Тел.: +7 (499) 550-95-98, 8 (800) 350-86-98&lt;/span&gt;" link="&lt;a href=&quot;https://sportivnoepitanie.ru/&quot; style=&quot;forced-color-adjust: none; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; transition: color 0.1s; color: rgb(51, 51, 51); text-decoration-line: none; font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;Интернет-магазин спортивного питания&amp;nbsp;&lt;span class=&quot;boldred&quot; style=&quot;forced-color-adjust: none; box-sizing: border-box; outline: none; -webkit-tap-highlight-color: transparent; font-weight: bold; color: rgb(212, 19, 19);&quot;&gt;SportivnoePitanie.ru&lt;/span&gt;&lt;/a&gt;" id="NgSHVobd8mqU20Zx3wMo-28">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="573.12" y="780" width="290" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;PT Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;E-mail: info@sportpit.ru&lt;/span&gt;" id="NgSHVobd8mqU20Zx3wMo-29">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="573.12" y="820" width="295" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-30" value="&lt;div&gt;Страница эксперта&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;fontSize=14;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535.94" y="810" as="sourcePoint" />
+            <mxPoint x="535.94" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-32" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="245.62" y="720" width="640" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-33" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-34" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Наша команда экспертов&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="360" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-35" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="269.69" y="390" width="113.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-36" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="480" y="230" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-37" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="415.56" y="390" width="113.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-38" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="415.56" y="500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-39" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="573.12" y="390" width="113.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-40" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="728.1299999999999" y="390" width="113.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-41" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="570.63" y="500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-42" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="729.6899999999999" y="500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NgSHVobd8mqU20Zx3wMo-41" target="NgSHVobd8mqU20Zx3wMo-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="632.1799999999998" y="690" as="sourcePoint" />
+            <mxPoint x="632.1799999999998" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-45" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="243.75000000000003" y="550" width="650" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-46" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Особенности экспертов&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="525.56" y="565" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-47" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="600" width="580" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NgSHVobd8mqU20Zx3wMo-48" value="&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;&lt;strong style=&quot;margin: 0px; padding: 0px; font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;- это текст-&quot;рыба&quot;,&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="670" y="220" width="140" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
