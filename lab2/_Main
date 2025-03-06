@@ -3156,7 +3156,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lPJDRXuX_Jh0N78H38vz" name="Страница — 19">
-    <mxGraphModel dx="4300" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1518" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3184,17 +3184,17 @@
         <mxCell id="euWr3Ibdwi5xpgNr3m9i-8" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="2379.37" y="110" width="630" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="euWr3Ibdwi5xpgNr3m9i-9" value="Section 1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="2410.62" y="120" width="60" height="20" as="geometry" />
+        <mxCell id="euWr3Ibdwi5xpgNr3m9i-9" value="Наши продукты" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="2380" y="120" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="euWr3Ibdwi5xpgNr3m9i-10" value="Section 2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="2500.62" y="120" width="60" height="20" as="geometry" />
+        <mxCell id="euWr3Ibdwi5xpgNr3m9i-10" value="О нас" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="2510.62" y="120" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="euWr3Ibdwi5xpgNr3m9i-11" value="Section 3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="2580.62" y="120" width="60" height="20" as="geometry" />
+        <mxCell id="euWr3Ibdwi5xpgNr3m9i-11" value="Блог о питании" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="2569.37" y="120" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="euWr3Ibdwi5xpgNr3m9i-12" value="Section 4" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="2680.62" y="120" width="60" height="20" as="geometry" />
+        <mxCell id="euWr3Ibdwi5xpgNr3m9i-12" value="&amp;nbsp; команда" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="2688.12" y="120" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="euWr3Ibdwi5xpgNr3m9i-13" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=top;spacing=10;comic=1;" parent="1" vertex="1">
           <mxGeometry x="2378.12" y="920" width="633.13" height="20" as="geometry" />
@@ -3202,11 +3202,11 @@
         <mxCell id="euWr3Ibdwi5xpgNr3m9i-14" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" parent="1" vertex="1">
           <mxGeometry x="2375.62" y="200" width="600" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="euWr3Ibdwi5xpgNr3m9i-15" value="Section 5" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="2770.62" y="120" width="60" height="20" as="geometry" />
+        <mxCell id="euWr3Ibdwi5xpgNr3m9i-15" value="Отзывы&amp;nbsp;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="2780.62" y="120" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="euWr3Ibdwi5xpgNr3m9i-16" value="Section 6" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="2850.62" y="120" width="60" height="20" as="geometry" />
+        <mxCell id="euWr3Ibdwi5xpgNr3m9i-16" value="FAQ" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="2870.62" y="120" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="euWr3Ibdwi5xpgNr3m9i-17" value="Section 7" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="2930.62" y="120" width="60" height="20" as="geometry" />
