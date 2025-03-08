@@ -3672,19 +3672,19 @@
           <mxGeometry x="1232.5" y="1170" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gd16JcNZ82NC7_xAzURg-4" value="Войти" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="1325" y="1140" width="180" height="20" as="geometry" />
+          <mxGeometry x="1252.5" y="1140" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Gd16JcNZ82NC7_xAzURg-5" value="корзина" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="1385" y="1140" width="60" height="20" as="geometry" />
+          <mxGeometry x="1320" y="1140" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Gd16JcNZ82NC7_xAzURg-6" value="доставка" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+        <mxCell id="Gd16JcNZ82NC7_xAzURg-6" value="Section 7" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="1385" y="1220" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Gd16JcNZ82NC7_xAzURg-7" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="809.9999999999999" y="1260" width="655" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Gd16JcNZ82NC7_xAzURg-8" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="823.7499999999999" y="1210" width="630" height="40" as="geometry" />
+          <mxGeometry x="829.9999999999999" y="1210" width="630" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gd16JcNZ82NC7_xAzURg-9" value="Section 1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="854.9999999999999" y="1220" width="60" height="20" as="geometry" />
@@ -4296,6 +4296,9 @@
         </mxCell>
         <mxCell id="LDS9NwU_9D3ki3UNlS61-6" value="доставка" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
           <mxGeometry x="600.62" y="1120" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LDS9NwU_9D3ki3UNlS61-7" value="доставка" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="1392.5" y="1140" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
