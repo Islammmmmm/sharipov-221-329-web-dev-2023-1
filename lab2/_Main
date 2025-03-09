@@ -3463,7 +3463,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lPJDRXuX_Jh0N78H38vz" name="Страница — 19">
-    <mxGraphModel dx="2580" dy="5917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="5608" dy="7153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4496,8 +4496,8 @@
             <mxPoint x="5006.39990234375" y="1090" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2390" y="1845" />
-              <mxPoint x="2390" y="2120" />
-              <mxPoint x="5460" y="2120" />
+              <mxPoint x="2390" y="2220" />
+              <mxPoint x="5460" y="2220" />
               <mxPoint x="5460" y="1080" />
               <mxPoint x="5017" y="1080" />
             </Array>
